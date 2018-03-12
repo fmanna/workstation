@@ -1,4 +1,5 @@
 # workstation
 
-TODO: Enter the cookbook description here.
+Configure a Windows workstation
 
+-Disable UAC
